@@ -1,0 +1,6 @@
+{
+  "name": "MissionPilot AI",
+  "description": "An AI Execution Partner designed to beat procrastination by turning goals into structured micro-missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
